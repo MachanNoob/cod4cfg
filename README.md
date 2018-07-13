@@ -1,2 +1,6 @@
-# cod4cfg
-Cod 4 Promod CFG
+# Machan Noob COD 4 CFG
+Cod 4 Promod Multiplayer Config
+
+## Features 
+
+
