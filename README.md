@@ -23,7 +23,7 @@ F12 : Get screenshot. This will be saved on current mod folder
 ### Promod Graphics  
 Use keys on number pad  
 / = promod lightening (toggle it off for better visibility)  
-* = toggle filmtweaks (needed for color enhancements below)  
+(*) = toggle filmtweaks (needed for color enhancements below)  
 
 1 : Switch between 125 and 250 fps  
 3 : Switch between 71 and 80 fov  
