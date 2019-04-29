@@ -18,8 +18,6 @@ F2 : Specops
 F3 : Demolitions  
 F4 : Sniper  
 
-F12 : Get screenshot. This will be saved on current mod folder  
-
 ### Promod Graphics  
 Use keys on number pad  
 / = promod lightening (toggle it off for better visibility)  
@@ -45,11 +43,11 @@ best for maps
 6 - Strike  
 8 - Backlot  
 
-### Customize yourself  
-0 : Switch game volume between 0.01 and 0.4  
-
-
 ### Others  
+
+0 : Switch game volume between 0.01 and 0.4  
+F11 : Switch between diffent sizes in scoreboard player list 
+F12 : Get screenshot. This will be saved on current mod folder  
 Press . key : says xD colorful  
 
 Use + and - on numberpad to attack and aim.  
