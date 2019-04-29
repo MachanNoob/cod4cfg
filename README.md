@@ -46,7 +46,7 @@ best for maps
 ### Others  
 
 0 : Switch game volume between 0.01 and 0.4  
-F11 : Switch between different sizes in scoreboard player list 
+F11 : Switch between different sizes in scoreboard player list  
 F12 : Get screenshot. This will be saved on current mod folder  
 Press . key : says xD colorful  
 
