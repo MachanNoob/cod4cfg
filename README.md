@@ -53,5 +53,5 @@ Press . key : says xD colorful
 Use + and - on numberpad to attack and aim.  
 This is useful to switch players in spec mode while you eat.  
   
-[ = start recording demo
+[ = start recording demo  
 ] = stop recording demo
